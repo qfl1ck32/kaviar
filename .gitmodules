@@ -1,0 +1,51 @@
+[submodule "docs"]
+	path = docs
+	url = https://github.com/kaviarjs/docs
+[submodule "packages/core"]
+	path = packages/core
+	url = https://github.com/kaviarjs/core
+[submodule "packages/nova"]
+	path = packages/nova
+	url = https://github.com/kaviarjs/nova
+[submodule "packages/apollo-bundle"]
+	path = packages/apollo-bundle
+	url = https://github.com/kaviarjs/apollo-bundle
+[submodule "packages/apollo-security-bundle"]
+	path = packages/apollo-security-bundle
+	url = https://github.com/kaviarjs/apollo-security-bundle
+[submodule "packages/email-bundle"]
+	path = packages/email-bundle
+	url = https://github.com/kaviarjs/email-bundle
+[submodule "packages/graphql-bundle"]
+	path = packages/graphql-bundle
+	url = https://github.com/kaviarjs/graphql-bundle
+[submodule "packages/logger-bundle"]
+	path = packages/logger-bundle
+	url = https://github.com/kaviarjs/logger-bundle
+[submodule "packages/mongo-bundle"]
+	path = packages/mongo-bundle
+	url = https://github.com/kaviarjs/mongo-bundle
+[submodule "packages/password-bundle"]
+	path = packages/password-bundle
+	url = https://github.com/kaviarjs/password-bundle
+[submodule "packages/security-bundle"]
+	path = packages/security-bundle
+	url = https://github.com/kaviarjs/security-bundle
+[submodule "packages/security-mongo-bundle"]
+	path = packages/security-mongo-bundle
+	url = https://github.com/kaviarjs/security-mongo-bundle
+[submodule "packages/terminal-bundle"]
+	path = packages/terminal-bundle
+	url = https://github.com/kaviarjs/terminal-bundle
+[submodule "packages/validator-bundle"]
+	path = packages/validator-bundle
+	url = https://github.com/kaviarjs/validator-bundle
+[submodule "packages/x-bundle"]
+	path = packages/x-bundle
+	url = https://github.com/kaviarjs/x-bundle
+[submodule "packages/x-generator-bundle"]
+	path = packages/x-generator-bundle
+	url = https://github.com/kaviarjs/x-generator-bundle
+[submodule "packages/x-password-bundle"]
+	path = packages/x-password-bundle
+	url = https://github.com/kaviarjs/x-password-bundle
