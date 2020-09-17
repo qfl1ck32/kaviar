@@ -21,3 +21,7 @@ git submodule update --init --recursive
 ```
 
 Each submodule has its own documentation and instructions please follow their `README.md` for more information.
+
+When developing packages, there are two essential commands you can use `npm run watch` to start watching changes to your typescript, and `npm run test:watch` to run tests to assert everything works.
+
+Our packages work together as a team, this is why sometimes we have to develop them in such a way. We use lerna to allow us to link a `@kaviar/**` package to our local ones, to activate it, you can go to the desired package and just do `lerna link`, please note that this will happen with all `@kaviar/**` packages.
