@@ -9,4 +9,6 @@ typings
 yarn-error.log
 yarn.lock
 typeDocs
-packages/developer-playground
+packages/developer-playground*
+packages/dp-*
+packages/graphql-final
