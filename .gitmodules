@@ -49,3 +49,15 @@
 [submodule "packages/x-password-bundle"]
 	path = packages/x-password-bundle
 	url = https://github.com/kaviarjs/x-password-bundle
+[submodule "ejson"]
+	path = ejson
+	url = https://github.com/kaviarjs/ejson
+[submodule "packages/ejson"]
+	path = packages/ejson
+	url = https://github.com/kaviarjs/ejson
+[submodule "packages/smart"]
+	path = packages/smart
+	url = https://github.com/kaviarjs/smart
+[submodule "packages/x-ui"]
+	path = packages/x-ui
+	url = https://github.com/kaviarjs/x-ui
