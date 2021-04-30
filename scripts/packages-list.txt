@@ -16,5 +16,6 @@ x-generator-bundle
 x-password-bundle
 x-cron-bundle
 x-ui
+x-ui-admin
 smart
 ejson
