@@ -67,3 +67,6 @@
 [submodule "packages/x-ui-admin"]
 	path = packages/x-ui-admin
 	url = https://github.com/kaviarjs/x-cron-bundle
+[submodule "packages/x-s3-bundle"]
+	path = packages/x-s3-bundle
+	url = git@github.com:kaviarjs/x-s3-bundle.git
